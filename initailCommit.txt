@@ -6,3 +6,6 @@ git rm --cached
 * git commit 
 * git commit -m "mesasage"
 git status
+git log
+git revert "commit id"
+git log --decorate --graph --oneline
