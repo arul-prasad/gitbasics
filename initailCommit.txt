@@ -1,1 +1,8 @@
 Initail commit
+git clone "url"
+git add .
+git reset 
+git rm --cached
+* git commit 
+* git commit -m "mesasage"
+git status
