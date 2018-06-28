@@ -8,6 +8,10 @@ git rm --cached
 git status
 git log
 git revert "commit id"
+* git push -u origin dev
+* git push
 git log --decorate --graph --oneline
 --------------
 ************
+git config --global alias.tree "log --graph --decorate --oneline"
+
