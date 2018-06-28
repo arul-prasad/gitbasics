@@ -9,4 +9,8 @@ git status
 git log
 git revert "commit id"
 git log --decorate --graph --oneline
+<<<<<<< HEAD
 --------------
+=======
+************
+>>>>>>> dev
